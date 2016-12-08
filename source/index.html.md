@@ -26,7 +26,7 @@ After completing this tutorial you will know how to:
 > git command to clone your forked repo:
 
 ```bash
-$ git clone https://github.com/<your-username>/smart-on-fhir-tutorial
+$ git clone https://github.com/<vetriselvi>/smart-on-fhir-tutorial
 ```
 
 First, you'll want to fork this tutorial from [smart-on-fhir-tutorial](https://github.com/cerner/smart-on-fhir-tutorial).
